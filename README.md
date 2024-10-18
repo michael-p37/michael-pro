@@ -1,7 +1,8 @@
 # michael-pro
-Tengo 25 años.
-##Experiencia profecional
+Soy desarrolador en proceso
 
+Conocimientos tecnicos:
 javaScript
 HTML
 CSS
+python
